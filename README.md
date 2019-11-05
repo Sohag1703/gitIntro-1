@@ -1,2 +1,2 @@
 # gitIntro
-This is my GitIntro! :D
+This is my gitIntro! :D
